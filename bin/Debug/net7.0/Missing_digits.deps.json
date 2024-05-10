@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Missing_digits/1.0.0": {
+        "runtime": {
+          "Missing_digits.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Missing_digits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

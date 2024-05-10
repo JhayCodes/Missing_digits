@@ -1,0 +1,15 @@
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.csproj.AssemblyReference.cache
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.AssemblyInfoInputs.cache
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.AssemblyInfo.cs
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.csproj.CoreCompileInputs.cache
+D:\ProgramPractice\C#\Missing_digits\bin\Debug\net7.0\Missing_digits.exe
+D:\ProgramPractice\C#\Missing_digits\bin\Debug\net7.0\Missing_digits.deps.json
+D:\ProgramPractice\C#\Missing_digits\bin\Debug\net7.0\Missing_digits.runtimeconfig.json
+D:\ProgramPractice\C#\Missing_digits\bin\Debug\net7.0\Missing_digits.dll
+D:\ProgramPractice\C#\Missing_digits\bin\Debug\net7.0\Missing_digits.pdb
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.dll
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\refint\Missing_digits.dll
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.pdb
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\Missing_digits.genruntimeconfig.cache
+D:\ProgramPractice\C#\Missing_digits\obj\Debug\net7.0\ref\Missing_digits.dll
